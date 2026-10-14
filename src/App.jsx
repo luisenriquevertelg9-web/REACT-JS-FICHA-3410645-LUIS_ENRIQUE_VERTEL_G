@@ -1,4 +1,4 @@
- import ProductoCard from './components/ProductoCard';
+import ProductoCard from './components/productocard';
 import { productos } from './data/productos';
 import './App.css';
 
@@ -27,4 +27,3 @@ function App() {
 }
 
 export default App;
-
